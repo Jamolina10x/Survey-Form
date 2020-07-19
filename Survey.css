@@ -2,7 +2,7 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 19px;
     font-weight: 300;
-    background-image: linear-gradient( rgba(22, 16, 27, 0.822),  rgba(149, 149, 247, 0.788) ), url(images/comvill.jpg);
+    background-image: linear-gradient( rgba(22, 16, 27, 0.822),  rgba(149, 149, 247, 0.788) ), url(comvill.jpg);
     background-size: 100% 100%;
     background-attachment: fixed;
     background-repeat: no-repeat;
