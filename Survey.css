@@ -119,6 +119,7 @@ option {
 /* ..........Style Textarea.......... */
 .textarea {
     min-height: 120px;
+    resize:none;
     width: 99%;
     padding: 0.256em;
     font-size: 17px;
